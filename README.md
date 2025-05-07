@@ -10,9 +10,9 @@ This repository contains Google Colab notebooks and video walkthroughs demonstra
 
 ## Structure
 
-- [`inference_pretrained_classifier.ipynb` → Pretrained model inference  ](https://colab.research.google.com/drive/19uS4iX46CPKkn0990bdH3lczU-pGpGTU?usp=sharing)
-- [`[fine_tuning_pretrained_backbone.ipynb` → Fine-tuning example  ](https://colab.research.google.com/drive/1Hbi9AxZFZDvt4LceJe7D2iAeWHdiAdSe?usp=sharing)
-- [`transformer_from_scratch.ipynb` → Custom transformer training  ](https://colab.research.google.com/drive/1lN5_AJd_TMVHClTPqwX8O2DvidUbivuO?usp=sharing)
+- [`inference_pretrained_classifier.ipynb` → Pretrained model inference  ]()
+- [`[fine_tuning_pretrained_backbone.ipynb` → Fine-tuning example  ]()
+- [`transformer_from_scratch.ipynb` → Custom transformer training  ]()
 
 ## Setup
 
