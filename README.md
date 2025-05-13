@@ -6,7 +6,7 @@ This repository contains Google Colab notebooks and video walkthroughs demonstra
 ✅ Fine-tuning a pretrained backbone  
 ✅ Building and training a transformer from scratch  
 
-# [`Video Walkthrough`](https://www.youtube.com/watch?v=_OS7BDH9Cdk&t=2s)
+# [`Video Walkthrough`](https://youtu.be/jRy0ANs4QN4)
 
 ## Structure
 
